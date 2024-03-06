@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const readline = require('readline');
 const fs = require('fs');
 // import node-jq to interact with JSON files

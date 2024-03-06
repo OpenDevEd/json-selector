@@ -1,11 +1,14 @@
 [
     {
-        "text": "Item 1"
+        "text": "Item 1",
+        "comment": "This is a comment"
     },
     {
-        "text": "Item 2"
+        "text": "Item 2",
+        "comment": "This is a comment"
     },
     {
-        "text": "Item 3"
+        "text": "Item 3",
+        "comment": "This is a comment"
     }
 ]

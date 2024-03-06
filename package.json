@@ -4,7 +4,7 @@
   "description": "This is a basic project structure generated for demonstration purposes.",
   "main": "index.js",
   "bin": {
-    "json-selector": "bin/json-selector.js"
+    "json-selector": "src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
